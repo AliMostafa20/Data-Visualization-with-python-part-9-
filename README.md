@@ -1,5 +1,3 @@
-# Data Visualization with Python (Part 9)
-
 ## 📍 Creating Maps and Visualizing Geospatial Data
 
 This module focuses on using **Folium** to create interactive maps and visualize geospatial datasets.
